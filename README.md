@@ -1,4 +1,4 @@
-# Controle Financeiro
+# Cardeneta para controle financeiro
 
 Um aplicativo Flutter para gerenciar vendas e compras, com suporte a parcelas, edição, exclusão e encerramento de transações.
 
@@ -39,8 +39,8 @@ lib/
 1. Clone o repositório:
 
    ```bash
-   git clone <URL_DO_REPOSITORIO>
-   cd flutter_controle_financeiro
+   git clone https://github.com/joaocarlos-losfe/flutter_caderneta.git
+   cd flutter_caderneta
    ```
 
 2. Instale as dependências:
