@@ -54,8 +54,8 @@ lib/
    dependencies:
      flutter:
        sdk: flutter
-     sqflite: ^2.3.0
-     path: ^1.8.3
+     sqflite: ^2.4.2
+     path: ^1.9.1
    ```
 
 ## Execução
@@ -86,8 +86,7 @@ lib/
 
 ## Notas
 
-- **Banco de Dados**: Usa SQLite com migração para adicionar a coluna `encerrada` (versão 2).
-- **Design**: Bordas arredondadas (`BorderRadius.circular(12)`), gradientes suaves, adaptado a temas claro/escuro.
+- **Banco de Dados**: Usa SQLite com migração.
 - **Componentização**: Código organizado por responsabilidades, com widgets reutilizáveis.
 
 ## Possíveis Melhorias
